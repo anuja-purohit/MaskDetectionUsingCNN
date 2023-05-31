@@ -1,1 +1,3 @@
 # MaskDetectionUsingCNN
+This data simulation project aims to develop a convolutional neural network (CNN) model for COVID mask detection. The dataset used for this project consists of images of individuals with and without masks, and the objective is to accurately classify each image as either "with mask" or "without mask".
+The CNN model was developed using Python and Keras, and achieved an accuracy of 91.6% on the test set. The model was trained on a GPU to expedite the process and ensure high accuracy. The results of this project demonstrate the effectiveness of using CNNs for COVID mask detection and could be useful in real-world applications for ensuring compliance with mask-wearing guidelines.
